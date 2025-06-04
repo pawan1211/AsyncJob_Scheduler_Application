@@ -2,7 +2,7 @@
 
 # 🕒 Asynchronous Job Scheduler (Spring Boot)
 
-This project implements a simple but powerful asynchronous job scheduler using Spring Boot. It allows triggering pre-defined jobs via a REST API and executes them concurrently using an `ExecutorService`.
+This project offers a robust and extensible asynchronous job scheduling framework built with Spring Boot. It supports triggering and executing concurrent tasks through a clean, RESTful API using Java’s ExecutorService.
 
 ---
 
